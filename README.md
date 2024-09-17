@@ -1,5 +1,5 @@
 # Dwm install script
-## Video Demo: 
+## Video Demo: https://youtu.be/4ik-ZylPYpU
 ## Description
 This is a Arch based installation and setup script for the Suckless dynamic window manager (dwm). This script allows you to install my version of dwm by default but allows you to install the standard dwm. This script will install necessary dependencies using pacman package manager. Download, install, and compile dwm. Add necessary lines to start X server and run dwm on login.
 
